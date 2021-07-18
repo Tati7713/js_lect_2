@@ -1,0 +1,44 @@
+/*hw1*/
+.simpson1 {
+    display: flex;
+}
+img {
+    width: 200px;
+    height: 300px;
+}
+.simpson2 {
+    margin: 20px;
+    justify-content: center;
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+
+/*hw2*/
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrap div {
+    margin: 3px;
+    width: 18%;
+    background: wheat;
+    padding: 10px;
+    text-align: justify;
+}
+
+/*hw3*/
+
+.user-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+.user-block {
+    margin: 3px;
+    width: 40%;
+    padding: 10px;
+    background: lightblue;
+    text-align: justify;
+}
